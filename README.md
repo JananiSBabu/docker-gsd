@@ -1,2 +1,2 @@
 # docker-gsd
-nigel poulton - getting started with docker course
+Nigel Poulton - getting started with kubernetes
